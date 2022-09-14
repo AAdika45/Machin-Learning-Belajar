@@ -1,2 +1,3 @@
 # Machin-Learning-Belajar
-Belajar Machine Learning di Python
+Belajar Machine Learning (ML) di Python. 
+Di sini akan diberikan beberapa project sederhana yang dengan analisis menggunakan ML
